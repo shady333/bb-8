@@ -17,6 +17,9 @@ Usage.
 
 FAQ.
 
+Useful links.
+http://www.ladysign-apps.com/developer/connect-play-around-with-bb-8-by-sphero-with-javascript-on-a-mac/#.Vp4zuPl96_4
+
 
 Contacts.
 In case of any queastions please write - oleg.dudar@gmail.com
