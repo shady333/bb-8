@@ -5,12 +5,13 @@ System requirements.
 Bluetooth LE adapter
 NodeJS (https://nodejs.org/ LTS)
 Python (https://www.python.org/downloads/release/python-2711/)
-Node packages:
-* sphero
-* noble
+
 
 Installation.
-
+Node packages:
+* sphero
+* noble (after installing noble package, goto ../node_modules/noble and execute npm install)
+* keypress
 
 Usage.
 
