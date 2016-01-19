@@ -2,7 +2,12 @@
 Sphero bb-8 droid
 
 System requirements.
-
+Bluetooth LE adapter
+NodeJS (https://nodejs.org/ LTS)
+Python (https://www.python.org/downloads/release/python-2711/)
+Node packages:
+* sphero
+* noble
 
 Installation.
 
