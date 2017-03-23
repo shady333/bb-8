@@ -3,8 +3,8 @@
 /* eslint no-use-before-define: 0 */
 /* eslint no-process-exit: 0 */
 
-var keypress = require("/Users/jenkins/node_modules/keypress");
-var sphero = require("/Users/jenkins/node_modules/sphero"),
+var keypress = require("keypress");
+var sphero = require("sphero"),
     bb8 = sphero("1467cd62cd9848b9b52e1924b1397c24");
 	
 var defaultColor = "palevioletred";
