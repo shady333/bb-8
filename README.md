@@ -5,7 +5,7 @@ System requirements.
 Bluetooth LE adapter
 NodeJS (https://nodejs.org/ LTS)
 Python (https://www.python.org/downloads/release/python-2711/)
-
+XCode installed + command line tools
 
 Installation.
 1. Download sources
