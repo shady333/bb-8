@@ -7,6 +7,8 @@ NodeJS (https://nodejs.org/ LTS)
 Python (https://www.python.org/downloads/release/python-2711/)
 XCode installed + command line tools
 
+Node version 8
+
 Installation.
 1. Download sources
 2. Init npm repository and fill all required data:
